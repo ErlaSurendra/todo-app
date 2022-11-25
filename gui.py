@@ -8,6 +8,7 @@ if not os.path.exists("files/Todos.txt"):
         pass
 
 clock = sg.Text("",key="clock")
+
 label = sg.Text("Type TODO")
 input_txt = sg.InputText(tooltip="Enter ToDo", key="todo")
 add_button = sg.Button(size=1,image_source="add.png",mouseover_colors="LightBlue2",tooltip="Add Todo",key="ADD")

@@ -2,13 +2,10 @@ AAAAA
 BBBBB
 CCCCCC
 EEEEEE
-FFFFFF
+FFFFFFFFFFFFFF
 gggggggggg
-add with gui
-check
 ddddddd
 DDDD
-eeeeeee
 ffffffffffff
 ggggggggggggggggggggggg
 hhhhhhhhhhhhhhhhhhh

@@ -3,8 +3,8 @@ import PySimpleGUI as sg
 import time
 import os
 
-if not os.path.exists("files/Todos.txt"):
-    with open("files/Todos.txt","w") as file:
+if not os.path.exists("Todos.txt"):
+    with open("Todos.txt","w") as file:
         pass
 
 clock = sg.Text("",key="clock")
